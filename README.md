@@ -1,4 +1,4 @@
-# Website Redirects
+# CloudFront Redirects
 
 This repo contains an Edge Lambda function that transforms CloudFront Viewer Requests to work with my blog.
 
